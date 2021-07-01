@@ -2,21 +2,13 @@
 
 ### Project developed by Rocketseat during the Next Level Week.
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  ![logo](https://user-images.githubusercontent.com/61084908/124130007-b4c74b80-da54-11eb-826f-19bab381e8b4.png)
 </p>
 
 ## 💡 Preview
 
-<p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/guilhermecapitao/letmeask?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
-
-  <img src="https://img.shields.io/github/stars/guilhermecapitao/letmeask?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
-</p>
-
 <h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src=".github/cover.svg" />
+  ![cover](https://user-images.githubusercontent.com/61084908/124130169-de807280-da54-11eb-970e-b12f9f95d7ca.png)
 </h1>
 
 <br>
