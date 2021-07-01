@@ -2,13 +2,13 @@
 
 ### Project developed by Rocketseat during the Next Level Week.
 <p align="center">
-  ![logo](https://user-images.githubusercontent.com/61084908/124130007-b4c74b80-da54-11eb-826f-19bab381e8b4.png)
+  <img width="160" ![logo](https://user-images.githubusercontent.com/61084908/124130007-b4c74b80-da54-11eb-826f-19bab381e8b4.png)>
 </p>
 
 ## 💡 Preview
 
 <h1 align="center">
-  ![cover](https://user-images.githubusercontent.com/61084908/124130169-de807280-da54-11eb-970e-b12f9f95d7ca.png)
+  <img ![cover](https://user-images.githubusercontent.com/61084908/124130169-de807280-da54-11eb-970e-b12f9f95d7ca.png)>
 </h1>
 
 <br>
