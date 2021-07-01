@@ -1,14 +1,15 @@
 # 🤔 letMeAsk
 
 ### Project developed by Rocketseat during the Next Level Week.
+
 <p align="center">
-  <img width="160" ![logo](https://user-images.githubusercontent.com/61084908/124130007-b4c74b80-da54-11eb-826f-19bab381e8b4.png)>
+  <img src="https://user-images.githubusercontent.com/61084908/124132872-a464a000-da57-11eb-8136-76fe82b46a36.png" />
 </p>
 
 ## 💡 Preview
 
 <h1 align="center">
-  <img ![cover](https://user-images.githubusercontent.com/61084908/124130169-de807280-da54-11eb-970e-b12f9f95d7ca.png)>
+  <img src="https://user-images.githubusercontent.com/61084908/124133282-0e7d4500-da58-11eb-9ad4-0b2b4924bf9b.png" />
 </h1>
 
 <br>
